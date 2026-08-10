@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#07101d"/>
+    <stop offset="0.58" stop-color="#0b1627"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" x2="1">
+    <stop offset="0" stop-color="#2563eb"/>
+    <stop offset="0.52" stop-color="#38bdf8"/>
+    <stop offset="1" stop-color="#14b8a6"/>
+  </linearGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+    <path d="M48 0H0V48" fill="none" stroke="#1e293b" stroke-width="1" opacity=".42"/>
+  </pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+<circle cx="1050" cy="70" r="125" fill="#2563eb" opacity=".12" filter="url(#glow)"/>
+<circle cx="935" cy="290" r="150" fill="#14b8a6" opacity=".08" filter="url(#glow)"/>
+<rect x="54" y="54" width="5" height="88" rx="2.5" fill="url(#accent)"/>
+<text x="82" y="84" fill="#93c5fd" font-size="15" font-family="Arial, sans-serif" font-weight="700" letter-spacing="3">SECURITY OPERATIONS · DETECTION ENGINEERING · DFIR</text>
+<text x="82" y="137" fill="#f8fafc" font-size="44" font-family="Arial, sans-serif" font-weight="800">SHALVA LEKISHVILI</text>
+<text x="82" y="174" fill="#cbd5e1" font-size="20" font-family="Arial, sans-serif">SOC Analyst (L2) · Security engineering portfolio</text>
+<text x="82" y="226" fill="#94a3b8" font-size="17" font-family="Arial, sans-serif">Engineering security evidence into operational decisions.</text>
+<rect x="82" y="258" width="390" height="44" rx="11" fill="#0f1d31" stroke="#263b58"/>
+<circle cx="106" cy="280" r="6" fill="#22c55e"/>
+<text x="124" y="286" fill="#dbeafe" font-size="14" font-family="Consolas, monospace">EVIDENCE → CONTEXT → SCOPE → ACTION</text>
+
+<rect x="770" y="55" width="354" height="246" rx="22" fill="#0b1220" stroke="#22314a"/>
+<text x="801" y="91" fill="#e2e8f0" font-size="14" font-family="Arial, sans-serif" font-weight="700" letter-spacing="2">OPERATING DOMAINS</text>
+
+<g font-family="Arial, sans-serif" font-size="14">
+  <rect x="801" y="112" width="137" height="38" rx="10" fill="#111f34" stroke="#29446c"/><text x="819" y="136" fill="#bfdbfe">SOC OPERATIONS</text>
+  <rect x="950" y="112" width="143" height="38" rx="10" fill="#111f34" stroke="#29446c"/><text x="968" y="136" fill="#bfdbfe">DETECTION ENG.</text>
+  <rect x="801" y="161" width="137" height="38" rx="10" fill="#10242d" stroke="#1f5960"/><text x="819" y="185" fill="#99f6e4">THREAT HUNTING</text>
+  <rect x="950" y="161" width="143" height="38" rx="10" fill="#10242d" stroke="#1f5960"/><text x="968" y="185" fill="#99f6e4">NETWORK DFIR</text>
+  <rect x="801" y="210" width="137" height="38" rx="10" fill="#1c1d31" stroke="#44446b"/><text x="819" y="234" fill="#c4b5fd">INCIDENT ANALYSIS</text>
+  <rect x="950" y="210" width="143" height="38" rx="10" fill="#1c1d31" stroke="#44446b"/><text x="968" y="234" fill="#c4b5fd">AUTOMATION</text>
+</g>
+<line x1="801" y1="273" x2="1093" y2="273" stroke="url(#accent)" stroke-width="2"/>
+<text x="801" y="292" fill="#64748b" font-size="12" font-family="Consolas, monospace">DEFENSIVE · EXPLAINABLE · TESTABLE</text>
+</svg>

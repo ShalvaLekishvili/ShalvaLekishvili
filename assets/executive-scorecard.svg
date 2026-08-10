@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img">
+<defs>
+  <linearGradient id="a" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+  <linearGradient id="b" x1="0" x2="1"><stop stop-color="#0ea5e9"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+</defs>
+<rect width="1200" height="370" rx="26" fill="#0b1220"/>
+<text x="42" y="45" fill="#94a3b8" font-size="13" font-family="Arial, sans-serif" font-weight="700" letter-spacing="2">DEMONSTRATED PORTFOLIO COVERAGE</text>
+<text x="42" y="68" fill="#64748b" font-size="12" font-family="Arial, sans-serif">Evidence-oriented domains represented across public projects and documented operating experience.</text>
+
+<g font-family="Arial, sans-serif">
+  <g transform="translate(42 96)">
+    <rect width="350" height="105" rx="17" fill="#0f172a" stroke="#29446c"/>
+    <rect width="5" height="105" rx="2.5" fill="url(#a)"/>
+    <text x="25" y="34" fill="#f8fafc" font-size="16" font-weight="700">Security Monitoring</text>
+    <text x="25" y="59" fill="#94a3b8" font-size="12">SIEM · Windows · Sysmon · firewall telemetry</text>
+    <rect x="25" y="73" width="86" height="22" rx="7" fill="#13233d"/><text x="68" y="88" text-anchor="middle" fill="#bfdbfe" font-size="10" font-weight="700">APPLIED</text>
+  </g>
+  <g transform="translate(425 96)">
+    <rect width="350" height="105" rx="17" fill="#0f172a" stroke="#29446c"/>
+    <rect width="5" height="105" rx="2.5" fill="url(#a)"/>
+    <text x="25" y="34" fill="#f8fafc" font-size="16" font-weight="700">Detection Engineering</text>
+    <text x="25" y="59" fill="#94a3b8" font-size="12">Detection-as-code · ATT&amp;CK · explainable findings</text>
+    <rect x="25" y="73" width="95" height="22" rx="7" fill="#13233d"/><text x="72" y="88" text-anchor="middle" fill="#bfdbfe" font-size="10" font-weight="700">FLAGSHIP</text>
+  </g>
+  <g transform="translate(808 96)">
+    <rect width="350" height="105" rx="17" fill="#0f172a" stroke="#29446c"/>
+    <rect width="5" height="105" rx="2.5" fill="url(#a)"/>
+    <text x="25" y="34" fill="#f8fafc" font-size="16" font-weight="700">Incident Investigation</text>
+    <text x="25" y="59" fill="#94a3b8" font-size="12">Process trees · timelines · IOCs · scope</text>
+    <rect x="25" y="73" width="86" height="22" rx="7" fill="#13233d"/><text x="68" y="88" text-anchor="middle" fill="#bfdbfe" font-size="10" font-weight="700">APPLIED</text>
+  </g>
+
+  <g transform="translate(42 224)">
+    <rect width="350" height="105" rx="17" fill="#0f172a" stroke="#285257"/>
+    <rect width="5" height="105" rx="2.5" fill="url(#b)"/>
+    <text x="25" y="34" fill="#f8fafc" font-size="16" font-weight="700">Network Forensics</text>
+    <text x="25" y="59" fill="#94a3b8" font-size="12">PCAP · DNS/HTTP/TLS · flows · evidence slicing</text>
+    <rect x="25" y="73" width="95" height="22" rx="7" fill="#102a2b"/><text x="72" y="88" text-anchor="middle" fill="#ccfbf1" font-size="10" font-weight="700">FLAGSHIP</text>
+  </g>
+  <g transform="translate(425 224)">
+    <rect width="350" height="105" rx="17" fill="#0f172a" stroke="#285257"/>
+    <rect width="5" height="105" rx="2.5" fill="url(#b)"/>
+    <text x="25" y="34" fill="#f8fafc" font-size="16" font-weight="700">Security Validation</text>
+    <text x="25" y="59" fill="#94a3b8" font-size="12">Authorized testing · remediation · retest</text>
+    <rect x="25" y="73" width="86" height="22" rx="7" fill="#102a2b"/><text x="68" y="88" text-anchor="middle" fill="#ccfbf1" font-size="10" font-weight="700">APPLIED</text>
+  </g>
+  <g transform="translate(808 224)">
+    <rect width="350" height="105" rx="17" fill="#0f172a" stroke="#285257"/>
+    <rect width="5" height="105" rx="2.5" fill="url(#b)"/>
+    <text x="25" y="34" fill="#f8fafc" font-size="16" font-weight="700">Security Automation</text>
+    <text x="25" y="59" fill="#94a3b8" font-size="12">Python · PowerShell · API/CLI · reporting</text>
+    <rect x="25" y="73" width="102" height="22" rx="7" fill="#102a2b"/><text x="76" y="88" text-anchor="middle" fill="#ccfbf1" font-size="10" font-weight="700">INTEGRATED</text>
+  </g>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="185" viewBox="0 0 1200 185" role="img">
+<defs>
+ <linearGradient id="f" x1="0" x2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#111827"/></linearGradient>
+ <linearGradient id="fl" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+</defs>
+<rect width="1200" height="185" rx="26" fill="url(#f)"/>
+<rect x="42" y="36" width="1116" height="1.5" fill="url(#fl)"/>
+<text x="600" y="84" fill="#f8fafc" font-size="24" font-family="Arial, sans-serif" font-weight="800" text-anchor="middle">SECURITY SHOULD PRODUCE A DECISION, NOT JUST AN ALERT.</text>
+<text x="600" y="119" fill="#94a3b8" font-size="15" font-family="Arial, sans-serif" text-anchor="middle">SOC Operations · Detection Engineering · Threat Hunting · DFIR · Network Forensics</text>
+<text x="600" y="153" fill="#64748b" font-size="12" font-family="Consolas, monospace" text-anchor="middle">SHALVA LEKISHVILI · SECURITY OPERATIONS PORTFOLIO</text>
+</svg>

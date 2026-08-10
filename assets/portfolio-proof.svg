@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="315" viewBox="0 0 1200 315" role="img">
+<defs>
+ <linearGradient id="b" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+ <linearGradient id="c" x1="0" x2="1"><stop stop-color="#0ea5e9"/><stop offset="1" stop-color="#14b8a6"/></linearGradient>
+</defs>
+<rect width="1200" height="315" rx="26" fill="#0b1220"/>
+<text x="42" y="43" fill="#94a3b8" font-size="13" font-family="Arial, sans-serif" font-weight="700" letter-spacing="2">VERIFIABLE SECURITY ENGINEERING</text>
+
+<rect x="42" y="70" width="536" height="205" rx="20" fill="#0f172a" stroke="#2a3e5d"/>
+<rect x="42" y="70" width="7" height="205" rx="3" fill="url(#b)"/>
+<text x="75" y="110" fill="#f8fafc" font-size="25" font-family="Arial, sans-serif" font-weight="800">SentinelForge</text>
+<text x="75" y="137" fill="#93c5fd" font-size="14" font-family="Arial, sans-serif">Detection engineering + SOC investigation</text>
+<text x="75" y="177" fill="#cbd5e1" font-size="14" font-family="Arial, sans-serif">12 curated detections · EVTX/Wazuh normalization</text>
+<text x="75" y="202" fill="#cbd5e1" font-size="14" font-family="Arial, sans-serif">IOC extraction · process graphs · ATT&amp;CK context</text>
+<rect x="75" y="226" width="152" height="30" rx="8" fill="#12243e"/><text x="151" y="246" fill="#bfdbfe" font-size="12" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">DEFENSIVE ENGINEERING</text>
+
+<rect x="622" y="70" width="536" height="205" rx="20" fill="#0f172a" stroke="#284a50"/>
+<rect x="622" y="70" width="7" height="205" rx="3" fill="url(#c)"/>
+<text x="655" y="110" fill="#f8fafc" font-size="25" font-family="Arial, sans-serif" font-weight="800">PacketScope</text>
+<text x="655" y="137" fill="#99f6e4" font-size="14" font-family="Arial, sans-serif">Network forensics + packet investigation</text>
+<text x="655" y="177" fill="#cbd5e1" font-size="14" font-family="Arial, sans-serif">48 automated tests · PCAP/PCAPNG analysis</text>
+<text x="655" y="202" fill="#cbd5e1" font-size="14" font-family="Arial, sans-serif">Protocol metadata · evidence slices · local-first workflow</text>
+<rect x="655" y="226" width="144" height="30" rx="8" fill="#102a2b"/><text x="727" y="246" fill="#ccfbf1" font-size="12" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">NETWORK DFIR</text>
+</svg>

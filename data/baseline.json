@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-08-10T18:10:00Z",
+  "source": "baseline",
+  "repos": {
+    "SentinelForge": {
+      "name": "SentinelForge",
+      "html_url": "https://github.com/ShalvaLekishvili/SentinelForge",
+      "description": "Defensive SOC investigation + detection engineering workbench.",
+      "language": "Python",
+      "license": "MIT",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "",
+      "latest_release": "v0.2.0",
+      "topics": [
+        "soc",
+        "detection-engineering",
+        "dfir",
+        "wazuh",
+        "sysmon",
+        "mitre-attack"
+      ],
+      "claims": {
+        "detections": true,
+        "evtx": true,
+        "attack": true
+      }
+    },
+    "PacketScope": {
+      "name": "PacketScope",
+      "html_url": "https://github.com/ShalvaLekishvili/PacketScope",
+      "description": "Local-first network forensics + packet investigation workbench.",
+      "language": "Python",
+      "license": "MIT",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "",
+      "latest_release": "—",
+      "topics": [
+        "pcap",
+        "network-forensics",
+        "dfir",
+        "packet-analysis"
+      ],
+      "claims": {
+        "tests": true,
+        "pcap": true,
+        "evidence": true
+      }
+    }
+  }
+}

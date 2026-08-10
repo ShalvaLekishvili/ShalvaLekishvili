@@ -1,0 +1,61 @@
+{
+  "api_version": "2026-03-10",
+  "credential_count": 14,
+  "flagships": {
+    "PacketScope": {
+      "claims": {
+        "evidence": true,
+        "pcap": true,
+        "tests": true
+      },
+      "description": "Local-first network forensics + packet investigation workbench.",
+      "forks": 0,
+      "html_url": "https://github.com/ShalvaLekishvili/PacketScope",
+      "language": "Python",
+      "latest_release": "\u2014",
+      "license": "MIT",
+      "name": "PacketScope",
+      "pushed_at": "",
+      "stars": 0,
+      "topics": [
+        "pcap",
+        "network-forensics",
+        "dfir",
+        "packet-analysis"
+      ]
+    },
+    "SentinelForge": {
+      "claims": {
+        "attack": true,
+        "detections": true,
+        "evtx": true
+      },
+      "description": "Defensive SOC investigation + detection engineering workbench.",
+      "forks": 0,
+      "html_url": "https://github.com/ShalvaLekishvili/SentinelForge",
+      "language": "Python",
+      "latest_release": "v0.2.0",
+      "license": "MIT",
+      "name": "SentinelForge",
+      "pushed_at": "",
+      "stars": 0,
+      "topics": [
+        "soc",
+        "detection-engineering",
+        "dfir",
+        "wazuh",
+        "sysmon",
+        "mitre-attack"
+      ]
+    }
+  },
+  "generated_at": "2026-08-10T18:10:00Z",
+  "role": "SOC Analyst (L2)",
+  "schema": 1,
+  "source": "baseline",
+  "tryhackme_credential_count": 10,
+  "verified_claims": {
+    "passed": 6,
+    "total": 6
+  }
+}

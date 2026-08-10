@@ -1,84 +1,80 @@
 <div align="center">
 
-<img src="./assets/hero-v4.svg" width="100%" alt="Shalva Lekishvili — SOC Analyst, Detection Engineering and DFIR portfolio">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-dark.svg" width="100%" alt="Shalva Lekishvili — SOC Analyst, Detection Engineering and DFIR portfolio">
+</picture>
 
 <br>
 
-<a href="#executive-profile"><img src="https://img.shields.io/badge/01-EXECUTIVE_PROFILE-0F172A?style=for-the-badge"></a>
-<a href="#flagship-security-engineering"><img src="https://img.shields.io/badge/02-FLAGSHIP_ENGINEERING-0F172A?style=for-the-badge"></a>
-<a href="#credentials--professional-development"><img src="https://img.shields.io/badge/03-CREDENTIALS-0F172A?style=for-the-badge"></a>
-<a href="#technical-stack"><img src="https://img.shields.io/badge/04-TECH_STACK-0F172A?style=for-the-badge"></a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/shalva-lekishvili/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://tryhackme.com/p/ShalvaLekishvili"><img src="https://img.shields.io/badge/TryHackMe-PROFILE-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF2D20"></a>
-<a href="https://lekishvilishalva.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-CASE_STUDIES-111827?style=for-the-badge&logo=netlify&logoColor=38BDF8"></a>
-<a href="https://github.com/ShalvaLekishvili?tab=repositories"><img src="https://img.shields.io/badge/GitHub-ENGINEERING-111827?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ShalvaLekishvili&style=flat-square&color=2563EB&label=PROFILE+VIEWS">
-<img src="https://img.shields.io/badge/Role-SOC_ANALYST_L2-1D4ED8?style=flat-square">
-<img src="https://img.shields.io/badge/Focus-DETECTION_%7C_DFIR_%7C_HUNTING-0F766E?style=flat-square">
-<img src="https://img.shields.io/badge/Location-GEORGIA-334155?style=flat-square">
-
-</div>
+**[Executive Brief](#executive-brief)** · **[Live Intelligence](#live-portfolio-intelligence)** · **[Engineering Proof](#flagship-security-engineering)** · **[Credentials](#credentials--professional-development)** · **[Operating Model](#security-operating-system)** · **[Contact](#contact)**
 
 <br>
 
-# Executive Profile
+[LinkedIn](https://www.linkedin.com/in/shalva-lekishvili/) · [TryHackMe](https://tryhackme.com/p/ShalvaLekishvili) · [Portfolio](https://lekishvilishalva.netlify.app/) · [Repositories](https://github.com/ShalvaLekishvili?tab=repositories)
 
-<table>
-<tr>
-<td width="33%" align="center" valign="middle">
-<img src="./assets/identity-mark-v4.svg" width="250" alt="Security operations identity">
-</td>
-<td width="67%" valign="top">
-
-### Security operations with engineering depth
-
-I am a **SOC Analyst (L2)** focused on detection engineering, incident investigation, threat hunting, network forensics, and authorized security validation.
-
-My work follows one operating principle:
-
-> **A security finding is only useful when it produces evidence, context, scope, a decision, and a stronger control.**
-
-I build and document workflows that help answer:
-
-**What happened? · Why did it matter? · How far did it go? · What should change next?**
-
-`SOC Operations` `Detection Engineering` `DFIR` `Threat Hunting` `Network Forensics` `Security Automation`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="./assets/executive-dashboard-v4.svg" width="100%" alt="Executive security operations dashboard">
 </div>
 
 ---
 
-## Security Value Model
+# Executive Brief
 
 <table>
 <tr>
-<td width="20%" align="center"><strong>01<br>OBSERVE</strong><br><sub>Telemetry & evidence</sub></td>
-<td width="20%" align="center"><strong>02<br>CONTEXTUALIZE</strong><br><sub>Normalize & correlate</sub></td>
-<td width="20%" align="center"><strong>03<br>INVESTIGATE</strong><br><sub>Establish scope</sub></td>
-<td width="20%" align="center"><strong>04<br>DECIDE</strong><br><sub>Prioritize action</sub></td>
-<td width="20%" align="center"><strong>05<br>IMPROVE</strong><br><sub>Strengthen controls</sub></td>
+<td width="66%" valign="top">
+
+## Security operations with engineering depth
+
+I am a **SOC Analyst (L2)** focused on **detection engineering, incident investigation, threat hunting, network forensics, security automation, and authorized security validation**.
+
+My portfolio is built around one rule:
+
+> **A security finding is only useful when it produces evidence, context, scope, a decision, and a stronger control.**
+
+I want a reviewer to be able to inspect the engineering behind the claim—not just read that I know a tool.
+
+**Core operating domains**
+
+`SOC Operations` · `Detection Engineering` · `DFIR` · `Threat Hunting` · `Network Forensics` · `Security Automation`
+
+</td>
+<td width="34%" valign="top">
+
+### Proof stack
+
+| Signal | Public evidence |
+|---|---:|
+| Curated detections | **12** |
+| PacketScope tests | **48** |
+| Documented credentials | **14** |
+| Flagship platforms | **2** |
+| Primary engineering language | **Python** |
+| Portfolio philosophy | **Evidence-first** |
+
+</td>
 </tr>
 </table>
 
-<div align="center"><img src="./assets/value-chain-v4.svg" width="100%"></div>
+---
+
+# Live Portfolio Intelligence
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/live-intelligence-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/live-intelligence-light.svg">
+  <img src="./assets/generated/live-intelligence-dark.svg" width="100%" alt="Live GitHub portfolio intelligence for SentinelForge and PacketScope">
+</picture>
+
+The panel above is **generated by this repository**, not by a third-party statistics service. A scheduled GitHub Actions workflow queries the GitHub REST API, verifies selected public claims against the flagship project READMEs, and regenerates local SVG assets plus a machine-readable manifest.
+
+**Machine-readable evidence:** [`assets/generated/portfolio-manifest.json`](./assets/generated/portfolio-manifest.json)
+
+The generator has an explicit baseline fallback. If GitHub API collection fails, the output is marked as baseline-backed rather than silently pretending stale information is live.
 
 ---
 
 # Flagship Security Engineering
-
-<div align="center"><img src="./assets/flagship-projects-v4.svg" width="100%"></div>
 
 <table>
 <tr>
@@ -88,23 +84,23 @@ I build and document workflows that help answer:
 
 **Defensive SOC investigation + detection engineering workbench**
 
-A public engineering project designed to make SOC capabilities inspectable rather than merely claimed.
+SentinelForge converts blue-team claims into inspectable engineering: telemetry parsers, a normalized event model, detection-as-code, process correlation, IOC extraction, ATT&CK context, analyst workflows, API/CLI surfaces, testing, and CI.
 
-### What it proves
+### Public engineering evidence
+
 - Windows `.evtx` ingestion
 - Wazuh / Sysmon-friendly normalization
-- External YAML detection-as-code
+- External YAML detection rules
 - **12 curated defensive detections**
-- Severity + confidence-aware scoring
-- IOC extraction
-- PID / PPID process correlation
-- MITRE ATT&CK coverage
-- API + CLI + analyst interface
-- Tests, CI, Dependabot and hardened container baseline
+- Severity + confidence-aware risk scoring
+- IOC extraction for common indicator classes
+- PID / PPID process graph correlation
+- MITRE ATT&CK technique coverage
+- FastAPI + CLI + analyst workspace
+- Hardened container baseline
+- Tests, CI and dependency maintenance
 
-`Python` `FastAPI` `EVTX` `Wazuh` `Sysmon` `YAML` `Detection-as-Code` `MITRE ATT&CK`
-
-<a href="https://github.com/ShalvaLekishvili/SentinelForge"><img src="https://img.shields.io/badge/OPEN_SENTINELFORGE-REPOSITORY-1D4ED8?style=for-the-badge&logo=github&logoColor=white"></a>
+**Reviewer route:** [README](https://github.com/ShalvaLekishvili/SentinelForge#readme) · [Architecture](https://github.com/ShalvaLekishvili/SentinelForge/tree/main/docs) · [Rules](https://github.com/ShalvaLekishvili/SentinelForge/tree/main/rules) · [Tests](https://github.com/ShalvaLekishvili/SentinelForge/tree/main/tests)
 
 </td>
 <td width="50%" valign="top">
@@ -113,61 +109,57 @@ A public engineering project designed to make SOC capabilities inspectable rathe
 
 **Local-first network forensics + packet investigation workbench**
 
-A DFIR-focused project that transforms raw PCAP evidence into an analyst-oriented investigation model.
+PacketScope transforms PCAP / PCAPNG evidence into a structured analyst investigation: hosts, flows, transactions, protocol metadata, findings, evidence slices, analyst state, reports, and investigation pivots.
 
-### What it proves
-- PCAP + PCAPNG analysis
+### Public engineering evidence
+
+- PCAP + PCAPNG ingestion
 - DNS / HTTP / TLS / ARP / DHCP / ICMP / NTP metadata
+- Host, flow and conversation modeling
 - Bounded TCP reconstruction
-- Host + conversation modeling
-- IOC extraction
-- Behavior detections
+- Behavioral detection leads
+- IOC and transaction context
 - Packet-level evidence slicing
-- Analyst annotations + reports
-- API + CLI + Docker
+- Analyst verdicts, notes and tags
+- JSON + self-contained HTML reporting
+- FastAPI + CLI + Docker
+- Local-first privacy model
 - **48 automated tests**
 
-`Python` `PCAP` `DFIR` `Network Forensics` `FastAPI` `Docker` `Evidence Handling`
-
-<a href="https://github.com/ShalvaLekishvili/PacketScope"><img src="https://img.shields.io/badge/OPEN_PACKETSCOPE-REPOSITORY-0F766E?style=for-the-badge&logo=github&logoColor=white"></a>
+**Reviewer route:** [README](https://github.com/ShalvaLekishvili/PacketScope#readme) · [Architecture](https://github.com/ShalvaLekishvili/PacketScope/tree/main/docs) · [Detections](https://github.com/ShalvaLekishvili/PacketScope/blob/main/docs/DETECTION_MODEL.md) · [Tests](https://github.com/ShalvaLekishvili/PacketScope/tree/main/tests)
 
 </td>
 </tr>
 </table>
 
----
+## Evidence Registry
 
-## Portfolio Evidence Index
-
-| Evidence area | SentinelForge | PacketScope | Operational relevance |
+| Capability | SentinelForge | PacketScope | What it demonstrates |
 |---|:---:|:---:|---|
-| Detection engineering | ✅ | ✅ | Turns threat behavior into repeatable analyst logic |
-| Endpoint telemetry | ✅ | — | Builds process, command-line and event context |
-| Network telemetry | — | ✅ | Reconstructs communication and protocol behavior |
-| IOC extraction | ✅ | ✅ | Supports enrichment, scoping and investigation pivots |
-| Correlation | ✅ | ✅ | Connects isolated events into explainable relationships |
-| Analyst workflow | ✅ | ✅ | Converts technical output into usable investigation steps |
-| Automated testing | ✅ | ✅ | Makes security logic reproducible and reviewable |
-| Privacy-conscious demos | ✅ | ✅ | Keeps public evidence synthetic/local-first |
-| API / CLI engineering | ✅ | ✅ | Supports automation and integration workflows |
+| Detection engineering | ✅ | ✅ | Behavior translated into repeatable analyst logic |
+| Windows / endpoint telemetry | ✅ | — | Event normalization, process relationships, command context |
+| Network telemetry | — | ✅ | Protocol-aware traffic and conversation reconstruction |
+| IOC extraction | ✅ | ✅ | Investigation pivots and contextualization |
+| Correlation | ✅ | ✅ | Relationships rather than isolated raw events |
+| ATT&CK context | ✅ | ✅ | Technique-aware analyst framing |
+| Analyst workflow | ✅ | ✅ | Findings connected to review and evidence |
+| API / CLI engineering | ✅ | ✅ | Automation and integration surfaces |
+| Automated testing | ✅ | ✅ | Reproducible engineering rather than presentation-only claims |
+| Defensive boundaries | ✅ | ✅ | Explicit limitations and intended use |
 
 ---
 
 # Business & Operational Impact
 
-<div align="center"><img src="./assets/business-impact-v4.svg" width="100%"></div>
-
-| Technical activity | Security question answered | Operational output | Business value |
+| Technical work | Security question | Operational output | Business value |
 |---|---|---|---|
-| SIEM / alert triage | Is this signal meaningful? | Evidence-backed disposition | Reduces wasted analyst time and missed escalation |
-| Detection engineering | What behavior must surface consistently? | Tested logic + ATT&CK context | Improves repeatability and visibility |
+| Alert triage | Is this signal meaningful? | Evidence-backed disposition | Reduces analyst noise and missed escalation |
+| Detection engineering | What behavior must surface consistently? | Tested rule logic + ATT&CK context | Improves repeatability and visibility |
 | Endpoint investigation | What executed and what changed? | Process tree, timeline, persistence evidence | Improves incident scope and containment |
-| Network forensics | What actually crossed the wire? | Conversations, protocol metadata, packet evidence | Clarifies suspicious communication and data movement |
-| Threat hunting | What could be present without an alert? | Hypothesis-driven findings and pivots | Finds gaps before repeated incidents |
-| Authorized validation | Does the control resist expected abuse? | Reproducible finding + remediation retest | Converts assumptions into verified assurance |
-| Automation | What repetitive work can be deterministic? | Scripts, API/CLI workflows, reports | Improves speed and consistency |
-
----
+| Network forensics | What crossed the wire? | Conversations, protocol metadata, packet evidence | Clarifies communication and data movement |
+| Threat hunting | What may exist without an alert? | Hypothesis-driven pivots and findings | Exposes detection gaps |
+| Authorized validation | Does the control resist expected abuse? | Reproducible finding + retest | Converts assumptions into verified assurance |
+| Automation | What repetitive work can become deterministic? | Scripts, APIs, CLI workflows, reports | Improves speed and consistency |
 
 ## Operational Deliverables
 
@@ -175,31 +167,31 @@ A DFIR-focused project that transforms raw PCAP evidence into an analyst-oriente
 <tr>
 <td width="33%" valign="top">
 
-### Investigation
+### Investigate
 - Evidence triage
 - Process-tree reconstruction
-- Command-line analysis
-- Persistence review
-- IOC extraction
+- Command-line review
+- Persistence analysis
 - Timeline building
+- IOC extraction
 - Scope determination
 
 </td>
 <td width="33%" valign="top">
 
-### Detection
+### Detect
 - Detection-as-code
-- Rule logic
+- Rule authoring
 - ATT&CK mapping
 - False-positive analysis
-- Rule testing
-- Detection-gap identification
-- Alert explanation
+- Detection testing
+- Gap identification
+- Explainable findings
 
 </td>
 <td width="33%" valign="top">
 
-### Communication
+### Communicate
 - Incident summaries
 - Severity rationale
 - Escalation context
@@ -214,48 +206,47 @@ A DFIR-focused project that transforms raw PCAP evidence into an analyst-oriente
 
 ---
 
-# Security Operating Model
+# Security Operating System
 
-<div align="center"><img src="./assets/operating-model-v4.svg" width="100%"></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/operating-system-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/operating-system-light.svg">
+  <img src="./assets/operating-system-dark.svg" width="100%" alt="Security operating system from telemetry to control improvement">
+</picture>
 
 ```text
-                         SECURITY OPERATIONS LOOP
-
-      ┌──────────────────── TELEMETRY ────────────────────┐
-      │ Endpoint · Windows · Sysmon · Network · Firewall │
-      └─────────────────────────┬─────────────────────────┘
-                                │
-                                ▼
-                    NORMALIZE + CORRELATE
-              events · processes · flows · indicators
-                                │
-                                ▼
-                      DETECT + INVESTIGATE
-                evidence · context · scope · timeline
-                                │
-                     ┌──────────┴──────────┐
-                     ▼                     ▼
-                  ESCALATE               CLOSE
-                     │                     │
-                     └──────────┬──────────┘
-                                ▼
-                         CONTROL IMPROVEMENT
-             detection tuning · hardening · playbooks · retest
+TELEMETRY
+   ↓
+NORMALIZE + CORRELATE
+   ↓
+DETECT + INVESTIGATE
+   ↓
+ESTABLISH SCOPE + PRIORITY
+   ↓
+ESCALATE / CONTAIN / CLOSE
+   ↓
+TUNE DETECTION + HARDEN CONTROL + DOCUMENT + RETEST
 ```
+
+The operating goal is not “generate more alerts.” It is **reduce uncertainty until a defensible next action is clear**.
 
 ---
 
 # Credentials & Professional Development
 
-<div align="center"><img src="./assets/credentials-vault-v4.svg" width="100%"></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/credential-matrix-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/credential-matrix-light.svg">
+  <img src="./assets/generated/credential-matrix-dark.svg" width="100%" alt="Fourteen cybersecurity credentials and technical training programs">
+</picture>
 
-> **Credentials are visible here intentionally.** They support the engineering evidence above and document the formal learning paths behind the work.
+The credentials stay **fully visible**. They support the engineering evidence above; they do not replace it.
 
-## 🟦 TryHackMe — Security Learning Paths & Credentials
+## TryHackMe — 10 credentials
 
 | Credential | Completed | Credential ID | Domain |
 |---|---:|---|---|
-| **Advent of Cyber 2025** | Dec 2025 | `THM-EGTUQF4CAI` | Multi-domain security |
+| **Advent of Cyber 2025** | Dec 2025 | `THM-EGTUQF4CAI` | Multi-domain Security |
 | **CTI – CISA JCDC Triage, Fusion and Analysis** | Nov 2025 | `THM-JVR3U2HPKS` | Cyber Threat Intelligence |
 | **Security Engineer** | Sep 2025 | `THM-2MWEFSMO18` | Security Engineering |
 | **SOC Level 1** | Sep 2025 | `THM-YHFGKSGY28` | Security Operations |
@@ -266,7 +257,7 @@ A DFIR-focused project that transforms raw PCAP evidence into an analyst-oriente
 | **Jr Penetration Tester** | Sep 2025 | `THM-DFCKXEC7AT` | Penetration Testing |
 | **Red Teaming** | Sep 2025 | `THM-HEX0VWNFTS` | Adversary Simulation |
 
-## 🟪 Additional Technical Training
+## Additional technical training — 4 programs
 
 | Course / Certificate | Provider | Completed | Domain |
 |---|---|---:|---|
@@ -275,50 +266,60 @@ A DFIR-focused project that transforms raw PCAP evidence into an analyst-oriente
 | **Fundamentals of Computer Hacking** | infySEC | Jun 2021 | Cybersecurity Fundamentals |
 | **Cyber Security and Ethical Hacking** | Georgian Project Andromeda | Oct 2020 | Ethical Hacking |
 
-<div align="center">
-<img src="https://img.shields.io/badge/10-TryHackMe_Credentials-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF2D20">
-<img src="https://img.shields.io/badge/4-Additional_Training_Programs-312E81?style=for-the-badge">
-<img src="https://img.shields.io/badge/Core_Track-SOC_%7C_DFIR_%7C_PENTEST-0F172A?style=for-the-badge">
-</div>
-
 ---
 
-# Technical Stack
-
-<div align="center">
-
-### Detection · Monitoring · Incident Investigation
-
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white">
-<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Windows_Event_Log-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/DFIR-1E293B?style=for-the-badge">
-
-### Network · Validation
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/PCAP-0F766E?style=for-the-badge">
-<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-
-### Engineering · Automation
-<img src="https://skillicons.dev/icons?i=python,linux,windows,bash,powershell,git,github,docker,vscode&theme=dark">
-
-</div>
-
----
-
-## Capability Architecture
+# Technical Capability Architecture
 
 <table>
 <tr>
-<td width="25%" valign="top"><h3>Security Operations</h3><code>SIEM</code> <code>Triage</code> <code>Escalation</code> <code>Incident Analysis</code> <code>Windows Events</code> <code>Sysmon</code></td>
-<td width="25%" valign="top"><h3>Detection Engineering</h3><code>Detection-as-Code</code> <code>MITRE ATT&CK</code> <code>Rule Testing</code> <code>IOC Logic</code> <code>Correlation</code></td>
-<td width="25%" valign="top"><h3>DFIR & Hunting</h3><code>Timeline Analysis</code> <code>Process Trees</code> <code>PCAP</code> <code>Network Forensics</code> <code>Threat Hunting</code></td>
-<td width="25%" valign="top"><h3>Engineering</h3><code>Python</code> <code>PowerShell</code> <code>FastAPI</code> <code>CLI</code> <code>Docker</code> <code>GitHub Actions</code></td>
+<td width="25%" valign="top">
+
+### Security Operations
+`SIEM`  
+`Wazuh`  
+`Windows Events`  
+`Sysmon`  
+`FortiGate`  
+`Triage`  
+`Escalation`
+
+</td>
+<td width="25%" valign="top">
+
+### Detection Engineering
+`Detection-as-Code`  
+`MITRE ATT&CK`  
+`Rule Testing`  
+`IOC Logic`  
+`Correlation`  
+`Risk Scoring`  
+`Behavior Analytics`
+
+</td>
+<td width="25%" valign="top">
+
+### DFIR & Hunting
+`Timeline Analysis`  
+`Process Trees`  
+`PCAP`  
+`Network Forensics`  
+`Threat Hunting`  
+`Evidence Handling`  
+`Protocol Analysis`
+
+</td>
+<td width="25%" valign="top">
+
+### Engineering
+`Python`  
+`PowerShell`  
+`FastAPI`  
+`CLI`  
+`Docker`  
+`Git`  
+`GitHub Actions`
+
+</td>
 </tr>
 </table>
 
@@ -328,25 +329,95 @@ A DFIR-focused project that transforms raw PCAP evidence into an analyst-oriente
 
 <table>
 <tr>
-<td width="33%" valign="top"><h3>01 · Explainability</h3>A detection should explain <strong>why it matched</strong>, what evidence supports it, and what the analyst should verify next.</td>
+<td width="33%" valign="top"><h3>01 · Explainability</h3>A detection should show <strong>why it matched</strong>, what evidence supports it, and what the analyst should verify next.</td>
 <td width="33%" valign="top"><h3>02 · Evidence Integrity</h3>Conclusions should remain traceable to source events, packets, timelines, or reproducible validation steps.</td>
-<td width="33%" valign="top"><h3>03 · Testable Security</h3>Rules, parsers and security logic should be tested rather than presented as unsupported claims.</td>
+<td width="33%" valign="top"><h3>03 · Testable Security</h3>Rules, parsers, detections, and automation should be tested rather than presented as unsupported claims.</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><h3>04 · Privacy by Default</h3>Public demos should prefer synthetic data, local processing, redaction and bounded collection.</td>
-<td width="33%" valign="top"><h3>05 · Defensive Scope</h3>Security tooling should support investigation, detection, evidence handling, remediation and authorized validation.</td>
-<td width="33%" valign="top"><h3>06 · Operational Clarity</h3>Every useful output should lead to a next action: investigate, escalate, contain, tune, harden, document or close.</td>
+<td width="33%" valign="top"><h3>04 · Privacy by Default</h3>Public demonstrations should prefer synthetic evidence, local processing, redaction, and bounded collection.</td>
+<td width="33%" valign="top"><h3>05 · Defensive Scope</h3>Security tooling should support investigation, detection, evidence handling, remediation, and authorized validation.</td>
+<td width="33%" valign="top"><h3>06 · Operational Clarity</h3>Every useful output should lead toward investigate, escalate, contain, tune, harden, document, retest, or close.</td>
 </tr>
 </table>
 
 ---
 
-# Current Development Vector
+# The Profile Itself Is Engineered
 
-<div align="center"><img src="./assets/development-vector-v4.svg" width="100%"></div>
+This repository is intentionally designed like a small production system.
 
 ```text
-01  Detection engineering + SIEM rule development
+config/portfolio.json
+        │
+        ├── identity + credentials
+        └── flagship claim definitions
+                │
+                ▼
+      scripts/profile_engine.py
+                │
+     ┌──────────┴──────────┐
+     ▼                     ▼
+GitHub REST API       README verification
+     │                     │
+     └──────────┬──────────┘
+                ▼
+     local dark/light SVGs
+     portfolio-manifest.json
+                │
+                ▼
+            README.md
+```
+
+### Automation hardening
+
+- GitHub REST API version is explicitly pinned to **`2026-03-10`**.
+- The workflow runs on a timezone-aware **Asia/Tbilisi** schedule and can also be triggered manually.
+- Workflow actions are pinned to **full commit SHAs**.
+- `GITHUB_TOKEN` receives only the repository-content permission needed to commit generated assets.
+- The workflow never uses `pull_request_target`.
+- The generator uses the **Python standard library only**—no runtime package-install supply chain.
+- Selected public claims are regex-verified against each flagship repository README.
+- Unit tests run before the generated profile is committed.
+- A validator checks local assets, SVG validity, credential count, duplicate IDs, and required portfolio sections.
+- Dependabot is configured for GitHub Actions maintenance.
+- CODEOWNERS covers workflow, script, and configuration changes.
+
+### Local developer commands
+
+```bash
+make profile    # generate from bundled verified baseline
+make test       # run unit tests
+make validate   # validate README/assets/credentials
+make all        # run everything
+```
+
+See [`docs/GOD_MODE_ARCHITECTURE.md`](./docs/GOD_MODE_ARCHITECTURE.md) for the design.
+
+---
+
+# Reviewer Routes
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/reviewer-routes-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/reviewer-routes-light.svg">
+  <img src="./assets/reviewer-routes-dark.svg" width="100%" alt="Reviewer routes for hiring manager, SOC lead and technical reviewer">
+</picture>
+
+### Hiring manager — 60 seconds
+**Role → proof stack → flagship projects → credentials → business impact**
+
+### SOC / Blue Team lead — 3 minutes
+**Detection coverage → analyst workflows → investigation model → operating system → deliverables**
+
+### Technical reviewer — 5+ minutes
+**Repository architecture → security boundaries → tests → workflow hardening → generated evidence manifest**
+
+---
+
+# Current Development Vector
+
+```text
+01  Detection engineering + SIEM rule quality
 02  Advanced Windows / endpoint investigation
 03  Cyber threat intelligence + IOC contextualization
 04  Active Directory security
@@ -358,44 +429,35 @@ A DFIR-focused project that transforms raw PCAP evidence into an analyst-oriente
 
 ---
 
-## Portfolio Governance
+# Portfolio Governance
 
-This GitHub is maintained as a **professional security engineering portfolio**, not simply a repository collection.
+This GitHub is maintained as a **professional security engineering portfolio**, not merely a repository collection.
 
-- Public claims should be backed by public evidence where possible.
-- Offensive techniques are documented only in authorized, defensive, educational or lab context.
-- Production-sensitive data is not used in public demonstrations.
-- Project READMEs should explain architecture, testing, limitations, security scope and roadmap.
-- Flagship projects should contain reproducible setup instructions and evidence of active engineering.
+- Public claims should have inspectable evidence wherever possible.
+- Offensive techniques are presented only in authorized, defensive, educational, or lab context.
+- Production-sensitive data is excluded from public demonstrations.
+- Flagship repositories should document architecture, testing, limitations, security scope, and roadmap.
+- Synthetic evidence is preferred for demonstrations.
+- Self-ratings such as “95% expert” are deliberately avoided.
+- Stars and followers are not treated as proof of security engineering quality.
+- New portfolio claims should be added to the machine-readable configuration when they can be verified.
 
 ---
 
-<details>
-<summary><strong>GitHub activity & contribution signals</strong></summary>
+# Contact
+
+<div align="center">
+
+### Open to security operations, detection engineering, threat hunting, and DFIR opportunities
+
+[**LinkedIn**](https://www.linkedin.com/in/shalva-lekishvili/) · [**GitHub**](https://github.com/ShalvaLekishvili) · [**TryHackMe**](https://tryhackme.com/p/ShalvaLekishvili) · [**Portfolio**](https://lekishvilishalva.netlify.app/)
+
 <br>
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShalvaLekishvili&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShalvaLekishvili&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&langs_count=8">
-<br><br>
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShalvaLekishvili/ShalvaLekishvili/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShalvaLekishvili/ShalvaLekishvili/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/ShalvaLekishvili/ShalvaLekishvili/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img src="./assets/footer-dark.svg" width="100%" alt="Security portfolio footer">
 </picture>
-</div>
-</details>
 
----
-
-<div align="center">
-<img src="./assets/footer-v4.svg" width="100%">
-
-## Open to security operations, detection engineering, threat hunting and DFIR opportunities
-
-<a href="https://www.linkedin.com/in/shalva-lekishvili/"><img src="https://img.shields.io/badge/LinkedIn-Shalva_Lekishvili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/ShalvaLekishvili"><img src="https://img.shields.io/badge/GitHub-ShalvaLekishvili-111827?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://tryhackme.com/p/ShalvaLekishvili"><img src="https://img.shields.io/badge/TryHackMe-ShalvaLekishvili-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF2D20"></a>
-
-<br><br>
-<sub><strong>AUTHORIZED SECURITY RESEARCH ONLY</strong> · EVIDENCE OVER ASSUMPTIONS · SECURITY AS AN OPERATIONAL DISCIPLINE</sub>
 </div>

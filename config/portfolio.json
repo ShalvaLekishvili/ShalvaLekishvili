@@ -1,0 +1,159 @@
+{
+  "owner": "ShalvaLekishvili",
+  "profile_repo": "ShalvaLekishvili",
+  "api_version": "2026-03-10",
+  "role": "SOC Analyst (L2)",
+  "headline": "Security Operations · Detection Engineering · DFIR · Threat Hunting",
+  "flagships": [
+    {
+      "repo": "SentinelForge",
+      "label": "Detection Engineering Platform",
+      "accent": "blue",
+      "claim_patterns": [
+        {
+          "id": "detections",
+          "label": "Curated detections",
+          "expected": "12",
+          "regex": "\\b12\\s+curated defensive detections\\b"
+        },
+        {
+          "id": "evtx",
+          "label": "EVTX ingestion",
+          "expected": "verified",
+          "regex": "Windows `?\\.evtx`? ingestion|Windows \\.evtx ingestion"
+        },
+        {
+          "id": "attack",
+          "label": "MITRE ATT&CK mapping",
+          "expected": "verified",
+          "regex": "MITRE ATT&CK|ATT&CK"
+        }
+      ]
+    },
+    {
+      "repo": "PacketScope",
+      "label": "Network Forensics Platform",
+      "accent": "teal",
+      "claim_patterns": [
+        {
+          "id": "tests",
+          "label": "Automated tests",
+          "expected": "48",
+          "regex": "\\b48\\s+(automated\\s+)?tests\\b"
+        },
+        {
+          "id": "pcap",
+          "label": "PCAP / PCAPNG",
+          "expected": "verified",
+          "regex": "PCAP.*PCAPNG|PCAPNG.*PCAP"
+        },
+        {
+          "id": "evidence",
+          "label": "Evidence slicing",
+          "expected": "verified",
+          "regex": "evidence slic|packet-level evidence"
+        }
+      ]
+    }
+  ],
+  "credentials": [
+    {
+      "name": "Advent of Cyber 2025",
+      "provider": "TryHackMe",
+      "completed": "Dec 2025",
+      "id": "THM-EGTUQF4CAI",
+      "domain": "Multi-domain Security"
+    },
+    {
+      "name": "CTI – CISA JCDC Triage, Fusion and Analysis",
+      "provider": "TryHackMe",
+      "completed": "Nov 2025",
+      "id": "THM-JVR3U2HPKS",
+      "domain": "Cyber Threat Intelligence"
+    },
+    {
+      "name": "Security Engineer",
+      "provider": "TryHackMe",
+      "completed": "Sep 2025",
+      "id": "THM-2MWEFSMO18",
+      "domain": "Security Engineering"
+    },
+    {
+      "name": "SOC Level 1",
+      "provider": "TryHackMe",
+      "completed": "Sep 2025",
+      "id": "THM-YHFGKSGY28",
+      "domain": "Security Operations"
+    },
+    {
+      "name": "SOC Level 2",
+      "provider": "TryHackMe",
+      "completed": "Sep 2025",
+      "id": "THM-TH8U8ODRGS",
+      "domain": "Advanced SOC Operations"
+    },
+    {
+      "name": "Offensive Pentesting",
+      "provider": "TryHackMe",
+      "completed": "Sep 2025",
+      "id": "THM-O5YB6D7QMZ",
+      "domain": "Security Validation"
+    },
+    {
+      "name": "Web Fundamentals",
+      "provider": "TryHackMe",
+      "completed": "Sep 2025",
+      "id": "THM-Y05LJ9JOTY",
+      "domain": "Web Security"
+    },
+    {
+      "name": "CompTIA PenTest+ Aligned Learning Path",
+      "provider": "TryHackMe",
+      "completed": "Sep 2025",
+      "id": "THM-JSEWACT2EY",
+      "domain": "Penetration Testing"
+    },
+    {
+      "name": "Jr Penetration Tester",
+      "provider": "TryHackMe",
+      "completed": "Sep 2025",
+      "id": "THM-DFCKXEC7AT",
+      "domain": "Penetration Testing"
+    },
+    {
+      "name": "Red Teaming",
+      "provider": "TryHackMe",
+      "completed": "Sep 2025",
+      "id": "THM-HEX0VWNFTS",
+      "domain": "Adversary Simulation"
+    },
+    {
+      "name": "CompTIA PenTest+ Ethical Hacking Training",
+      "provider": "Udemy",
+      "completed": "Sep 2024",
+      "id": "",
+      "domain": "Penetration Testing"
+    },
+    {
+      "name": "SuperMap GIS Solutions for Telecommunications",
+      "provider": "SuperMap GIS",
+      "completed": "Nov 2021",
+      "id": "",
+      "domain": "GIS / Telecommunications"
+    },
+    {
+      "name": "Fundamentals of Computer Hacking",
+      "provider": "infySEC",
+      "completed": "Jun 2021",
+      "id": "",
+      "domain": "Cybersecurity Fundamentals"
+    },
+    {
+      "name": "Cyber Security and Ethical Hacking",
+      "provider": "Georgian Project Andromeda",
+      "completed": "Oct 2020",
+      "id": "",
+      "domain": "Ethical Hacking"
+    }
+  ]
+}

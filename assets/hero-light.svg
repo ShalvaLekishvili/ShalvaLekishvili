@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="God mode security portfolio hero"><defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset=".55" stop-color="#38bdf8"/><stop offset="1" stop-color="#0f766e"/></linearGradient><pattern id="g" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#cbd5e1" opacity=".38"/></pattern></defs>
+<rect width="1200" height="430" rx="30" fill="#f8fafc"/><rect width="1200" height="430" rx="30" fill="url(#g)"/>
+<rect x="58" y="58" width="6" height="111" rx="3" fill="url(#a)"/>
+<text x="88" y="92" fill="#2563eb" font-family="Arial" font-size="14" font-weight="700" letter-spacing="3">SECURITY OPERATIONS · DETECTION ENGINEERING · DFIR</text>
+<text x="88" y="151" fill="#0f172a" font-family="Arial" font-size="49" font-weight="800">SHALVA LEKISHVILI</text>
+<text x="88" y="190" fill="#334155" font-family="Arial" font-size="21">SOC Analyst (L2) · Security Engineering Portfolio</text>
+<text x="88" y="247" fill="#64748b" font-family="Arial" font-size="17">Evidence-first defensive security. Engineering depth. Operational clarity.</text>
+<rect x="88" y="300" width="540" height="52" rx="13" fill="#ffffff" stroke="#cbd5e1"/><circle cx="118" cy="326" r="7" fill="#15803d"/><text x="139" y="332" fill="#334155" font-family="Consolas" font-size="14">OBSERVE → CONTEXT → INVESTIGATE → DECIDE → IMPROVE</text>
+<text x="88" y="388" fill="#64748b" font-family="Arial" font-size="12">Portfolio v5 · machine-readable evidence · self-updating public intelligence</text>
+<rect x="748" y="58" width="394" height="294" rx="24" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="780" y="97" fill="#64748b" font-family="Arial" font-size="12" font-weight="700" letter-spacing="2">PROOF STACK</text>
+<g font-family="Arial"><text x="780" y="151" fill="#0f172a" font-size="34" font-weight="800">12</text><text x="844" y="151" fill="#334155" font-size="14">curated detections</text><text x="780" y="199" fill="#0f172a" font-size="34" font-weight="800">48</text><text x="844" y="199" fill="#334155" font-size="14">automated tests</text><text x="780" y="247" fill="#0f172a" font-size="34" font-weight="800">14</text><text x="844" y="247" fill="#334155" font-size="14">documented credentials</text><text x="780" y="295" fill="#0f172a" font-size="34" font-weight="800">2</text><text x="844" y="295" fill="#334155" font-size="14">flagship security platforms</text></g>
+<line x1="780" y1="320" x2="1110" y2="320" stroke="url(#a)" stroke-width="2"/>
+</svg>

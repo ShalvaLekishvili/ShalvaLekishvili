@@ -52,7 +52,7 @@
   "generated_at": "2026-08-10T18:10:00Z",
   "role": "SOC Analyst (L2)",
   "schema": 1,
-  "source": "baseline",
+  "source": "github-rest-api",
   "tryhackme_credential_count": 10,
   "verified_claims": {
     "passed": 6,

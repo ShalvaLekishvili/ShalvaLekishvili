@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="340" viewBox="0 0 340 340" role="img">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#2563eb"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#14b8a6"/></linearGradient></defs>
+<rect width="340" height="340" rx="44" fill="#0b1220"/><rect x="28" y="28" width="284" height="284" rx="38" fill="#0f172a" stroke="#293951"/>
+<path d="M170 66 L252 101 V159 C252 215 220 258 170 278 C120 258 88 215 88 159 V101 Z" fill="none" stroke="url(#g)" stroke-width="8"/>
+<path d="M118 151 H146 L160 123 L184 197 L201 157 H226" fill="none" stroke="#e2e8f0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="160" cy="123" r="6" fill="#38bdf8"/>
+<text x="170" y="304" fill="#94a3b8" font-family="Arial" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="2">SECURITY OPERATIONS</text>
+</svg>

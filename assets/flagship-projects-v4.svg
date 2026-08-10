@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img">
+<rect width="1200" height="330" rx="26" fill="#0b1220"/>
+<text x="42" y="42" fill="#94a3b8" font-family="Arial" font-size="13" font-weight="700" letter-spacing="2">FLAGSHIP ENGINEERING EVIDENCE</text>
+<rect x="42" y="72" width="536" height="215" rx="21" fill="#0f172a" stroke="#2a3e5d"/><rect x="42" y="72" width="7" height="215" rx="3" fill="#2563eb"/>
+<text x="76" y="113" fill="#f8fafc" font-family="Arial" font-size="27" font-weight="800">SentinelForge</text><text x="76" y="141" fill="#93c5fd" font-family="Arial" font-size="14">SOC investigation · detection engineering</text>
+<text x="76" y="181" fill="#cbd5e1" font-family="Arial" font-size="14">12 curated detections</text><text x="76" y="205" fill="#cbd5e1" font-family="Arial" font-size="14">EVTX + Wazuh normalization</text><text x="76" y="229" fill="#cbd5e1" font-family="Arial" font-size="14">IOC extraction · process correlation · ATT&amp;CK</text>
+<rect x="622" y="72" width="536" height="215" rx="21" fill="#0f172a" stroke="#284a50"/><rect x="622" y="72" width="7" height="215" rx="3" fill="#14b8a6"/>
+<text x="656" y="113" fill="#f8fafc" font-family="Arial" font-size="27" font-weight="800">PacketScope</text><text x="656" y="141" fill="#99f6e4" font-family="Arial" font-size="14">Network forensics · packet investigation</text>
+<text x="656" y="181" fill="#cbd5e1" font-family="Arial" font-size="14">48 automated tests</text><text x="656" y="205" fill="#cbd5e1" font-family="Arial" font-size="14">PCAP/PCAPNG · protocol metadata</text><text x="656" y="229" fill="#cbd5e1" font-family="Arial" font-size="14">Evidence slices · behavior detection · local-first</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="185" viewBox="0 0 1200 185" role="img">
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#14b8a6"/></linearGradient></defs>
+<rect width="1200" height="185" rx="24" fill="#0b1220"/><line x1="120" y1="92" x2="1080" y2="92" stroke="url(#a)" stroke-width="4"/>
+<g font-family="Arial" text-anchor="middle">
+<g><circle cx="120" cy="92" r="25" fill="#13233d" stroke="#3b82f6" stroke-width="3"/><text x="120" y="98" fill="#dbeafe" font-size="16" font-weight="700">01</text><text x="120" y="45" fill="#f8fafc" font-size="13" font-weight="700">OBSERVE</text><text x="120" y="145" fill="#64748b" font-size="11">Telemetry</text></g>
+<g><circle cx="360" cy="92" r="25" fill="#13233d" stroke="#60a5fa" stroke-width="3"/><text x="360" y="98" fill="#dbeafe" font-size="16" font-weight="700">02</text><text x="360" y="45" fill="#f8fafc" font-size="13" font-weight="700">CONTEXTUALIZE</text><text x="360" y="145" fill="#64748b" font-size="11">Normalize · correlate</text></g>
+<g><circle cx="600" cy="92" r="25" fill="#102735" stroke="#38bdf8" stroke-width="3"/><text x="600" y="98" fill="#cffafe" font-size="16" font-weight="700">03</text><text x="600" y="45" fill="#f8fafc" font-size="13" font-weight="700">INVESTIGATE</text><text x="600" y="145" fill="#64748b" font-size="11">Evidence · scope</text></g>
+<g><circle cx="840" cy="92" r="25" fill="#102b2c" stroke="#2dd4bf" stroke-width="3"/><text x="840" y="98" fill="#ccfbf1" font-size="16" font-weight="700">04</text><text x="840" y="45" fill="#f8fafc" font-size="13" font-weight="700">DECIDE</text><text x="840" y="145" fill="#64748b" font-size="11">Escalate · contain</text></g>
+<g><circle cx="1080" cy="92" r="25" fill="#102b2c" stroke="#14b8a6" stroke-width="3"/><text x="1080" y="98" fill="#ccfbf1" font-size="16" font-weight="700">05</text><text x="1080" y="45" fill="#f8fafc" font-size="13" font-weight="700">IMPROVE</text><text x="1080" y="145" fill="#64748b" font-size="11">Tune · harden · retest</text></g>
+</g>
+</svg>

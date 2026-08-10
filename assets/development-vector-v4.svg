@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img">
+<rect width="1200" height="240" rx="26" fill="#0b1220"/>
+<text x="42" y="42" fill="#94a3b8" font-family="Arial" font-size="13" font-weight="700" letter-spacing="2">CURRENT DEVELOPMENT VECTOR</text>
+<line x1="110" y1="132" x2="1090" y2="132" stroke="#38bdf8" stroke-width="4"/>
+<g font-family="Arial" text-anchor="middle">
+<g><circle cx="110" cy="132" r="19" fill="#13233d" stroke="#3b82f6" stroke-width="3"/><text x="110" y="138" fill="#dbeafe" font-size="12" font-weight="700">01</text><text x="110" y="94" fill="#f8fafc" font-size="11" font-weight="700">DETECTION</text><text x="110" y="174" fill="#64748b" font-size="10">Rules · SIEM</text></g>
+<g><circle cx="250" cy="132" r="19" fill="#13233d" stroke="#60a5fa" stroke-width="3"/><text x="250" y="138" fill="#dbeafe" font-size="12" font-weight="700">02</text><text x="250" y="94" fill="#f8fafc" font-size="11" font-weight="700">WINDOWS</text><text x="250" y="174" fill="#64748b" font-size="10">Endpoint DFIR</text></g>
+<g><circle cx="390" cy="132" r="19" fill="#102735" stroke="#38bdf8" stroke-width="3"/><text x="390" y="138" fill="#cffafe" font-size="12" font-weight="700">03</text><text x="390" y="94" fill="#f8fafc" font-size="11" font-weight="700">CTI</text><text x="390" y="174" fill="#64748b" font-size="10">IOC context</text></g>
+<g><circle cx="530" cy="132" r="19" fill="#102735" stroke="#22d3ee" stroke-width="3"/><text x="530" y="138" fill="#cffafe" font-size="12" font-weight="700">04</text><text x="530" y="94" fill="#f8fafc" font-size="11" font-weight="700">AD SECURITY</text><text x="530" y="174" fill="#64748b" font-size="10">Identity</text></g>
+<g><circle cx="670" cy="132" r="19" fill="#102b2c" stroke="#2dd4bf" stroke-width="3"/><text x="670" y="138" fill="#ccfbf1" font-size="12" font-weight="700">05</text><text x="670" y="94" fill="#f8fafc" font-size="11" font-weight="700">NETWORK</text><text x="670" y="174" fill="#64748b" font-size="10">Forensics</text></g>
+<g><circle cx="810" cy="132" r="19" fill="#102b2c" stroke="#2dd4bf" stroke-width="3"/><text x="810" y="138" fill="#ccfbf1" font-size="12" font-weight="700">06</text><text x="810" y="94" fill="#f8fafc" font-size="11" font-weight="700">WEB</text><text x="810" y="174" fill="#64748b" font-size="10">Validation</text></g>
+<g><circle cx="950" cy="132" r="19" fill="#102b2c" stroke="#14b8a6" stroke-width="3"/><text x="950" y="138" fill="#ccfbf1" font-size="12" font-weight="700">07</text><text x="950" y="94" fill="#f8fafc" font-size="11" font-weight="700">AUTOMATION</text><text x="950" y="174" fill="#64748b" font-size="10">Python · PS</text></g>
+<g><circle cx="1090" cy="132" r="19" fill="#102b2c" stroke="#14b8a6" stroke-width="3"/><text x="1090" y="138" fill="#ccfbf1" font-size="12" font-weight="700">08</text><text x="1090" y="94" fill="#f8fafc" font-size="11" font-weight="700">REPORTING</text><text x="1090" y="174" fill="#64748b" font-size="10">Playbooks</text></g>
+</g>
+</svg>

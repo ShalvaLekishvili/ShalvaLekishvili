@@ -503,8 +503,18 @@ This GitHub is maintained as a **professional security engineering portfolio**, 
 <a href="[https://www.linkedin.com/in/shalva-lekishvili/]" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shalva Lekishvili"/>
  </a>
- · [**GitHub**](https://github.com/ShalvaLekishvili) · [**TryHackMe**](https://tryhackme.com/p/ShalvaLekishvili) · [**Portfolio**](https://lekishvilishalva.netlify.app/)
-
+ <a href="https://tryhackme.com/p/ShalvaLekishvili" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+    <a href="lekishvilishalva.netlify.app" target="blank">
+  <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Shalva Lekishvili" />
+ </a>
+   <a href="lekishvilishalva@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shalva Lekishvili" />
+ </a> 
+ <a href="https://github.com/ShalvaLekishvili" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Shalva Lekishvili" />
+ </a>
 <br>
 
 <picture>

@@ -5,6 +5,12 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
   <img src="./assets/hero-dark.svg" width="100%" alt="Shalva Lekishvili — SOC Analyst, Detection Engineering and DFIR portfolio">
 </picture>
+<p align="center">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shalvalekishvili">
+</a>
+<a href="https://github.com/ShalvaLekishvili?tab=followers"><img src="https://img.shields.io/github/followers/eimantahir027?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
 <br>
 

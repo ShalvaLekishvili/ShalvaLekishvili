@@ -15,6 +15,8 @@
 [LinkedIn](https://www.linkedin.com/in/shalva-lekishvili/) · [TryHackMe](https://tryhackme.com/p/ShalvaLekishvili) · [Portfolio](https://lekishvilishalva.netlify.app/) · [Repositories](https://github.com/ShalvaLekishvili?tab=repositories)
 
 </div>
+
+<div align="center">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" alt="C#" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
@@ -53,7 +55,7 @@
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="50" alt="Canva" />
 <img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" width="150" />
-
+</div>
 ---
 
 # Executive Brief

@@ -15,10 +15,6 @@
 [LinkedIn](https://www.linkedin.com/in/shalva-lekishvili/) · [TryHackMe](https://tryhackme.com/p/ShalvaLekishvili) · [Portfolio](https://lekishvilishalva.netlify.app/) · [Repositories](https://github.com/ShalvaLekishvili?tab=repositories)
 
 </div>
-
-<div align="center">
-
-### 💻 Programming Languages:
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" alt="C#" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" alt="Java" />
@@ -28,16 +24,14 @@
 
 <img src="https://skillicons.dev/icons?i=c,dart" width="90" />
 
-### 🌐 Frontend Development:
+
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" alt="React" />
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" width="300" />
 
-### ⚙️ Backend Development:
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" alt="Django" />
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" alt="GraphQL" />
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" width="400" />
 
-### 🤖 AI & Machine Learning:
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" width="224" />
 <img src="https://cdn.simpleicons.org/numpy/013243" width="56" alt="NumPy" />
 <img src="https://cdn.simpleicons.org/pandas/150458" width="56" alt="Pandas" />
@@ -50,20 +44,15 @@
 <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" alt="OpenCV" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib" />
 
-
-### 🗄️ Databases:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" width="400" />
 
-### 🔧 Tools & Technologies:
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" alt="Docker" />
 <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" width="150" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="50" alt="n8n" />
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" alt="Streamlit" />
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="50" alt="Canva" />
 <img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" width="150" />
-
-</div>
 
 ---
 

@@ -56,7 +56,12 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="50" alt="Canva" />
 <img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" width="150" />
 </div>
----
+
+
+<h2 align="center">Profile View</h1>
+<div align="center">
+  <img src="https://count.getloli.com/@:shalvalekishili?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 # Executive Brief
 

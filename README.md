@@ -500,8 +500,10 @@ This GitHub is maintained as a **professional security engineering portfolio**, 
 <div align="center">
 
 ### Open to security operations, detection engineering, threat hunting, and DFIR opportunities
-
-[**LinkedIn**](https://www.linkedin.com/in/shalva-lekishvili/) · [**GitHub**](https://github.com/ShalvaLekishvili) · [**TryHackMe**](https://tryhackme.com/p/ShalvaLekishvili) · [**Portfolio**](https://lekishvilishalva.netlify.app/)
+<a href="[https://www.linkedin.com/in/shalva-lekishvili/]" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shalva Lekishvili"/>
+ </a>
+ · [**GitHub**](https://github.com/ShalvaLekishvili) · [**TryHackMe**](https://tryhackme.com/p/ShalvaLekishvili) · [**Portfolio**](https://lekishvilishalva.netlify.app/)
 
 <br>
 
